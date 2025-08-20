@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+google-generativeai
+sentence_transformers
+faiss-cpu
+mysql-connector-python
