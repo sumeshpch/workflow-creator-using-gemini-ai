@@ -20,7 +20,7 @@ app.add_middleware(
 
 # Initialize the model
 model = GeminiModel(
-    api_key="AIzaSyArf2MRoKJMRz_si0Tjv3wCleKvhXMYiNo",
+    api_key="AIzaSyB9-0000000000000000000000000000000",
     selected_language=LanguageSelection.ENGLISH
 )
 
